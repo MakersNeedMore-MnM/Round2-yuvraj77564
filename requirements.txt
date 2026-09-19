@@ -1,0 +1,5 @@
+smbus2>=0.5,<1
+pyserial>=3.5,<4
+gpiozero>=2,<3
+pyttsx3>=2.90
+opencv-python>=4.8
